@@ -142,12 +142,6 @@ This project demonstrates the ability to systematically review website content, 
 
 It highlights practical website auditing, content management, SEO analysis, and documentation skills.
 
-## 👩‍💻 About Me
-
-Hi, I'm **Fatima Tanveer**, a WordPress Content Management and On-Page SEO Specialist with 3+ years of experience in website content management, WordPress administration, website data entry, landing page management, and SEO optimization.
-
-I help businesses maintain organized websites, improve content quality, manage website pages, and implement on-page SEO best practices.
-
 ### 📬 Let's Work Together
 
 - 💼 Open to WordPress and Website Management Projects.
